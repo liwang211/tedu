@@ -2,6 +2,6 @@ package elema;
 
 public class Test {
 	public static void main(String[] args) {
-		System.out.println("hello java !!ÄãºÃjava");
+		System.out.println("æµ‹è¯•jabva");
 	}
 }
